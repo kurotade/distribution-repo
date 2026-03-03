@@ -1,1 +1,1 @@
-# distribution-repo
+# 配布用リポジトリ
